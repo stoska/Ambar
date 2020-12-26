@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target 		= "10.0"
   s.watchos.deployment_target 	= "4.0"
   s.tvos.deployment_target 		= "10.0"
-  s.source       = { :git => "https://github.com/radianttap/Ambar.git" }
+  s.source       = { :git => "https://github.com/stoska/Ambar.git" }
   s.source_files = 'Ambar/*.{swift}'
   s.frameworks   = 'Foundation', 'CoreData'
 
